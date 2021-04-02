@@ -2,7 +2,7 @@ import nltk
 import matplotlib.pyplot as plt
 
 #nltk.download()
-#nltk.download('punkt')
+nltk.download('punkt')
 
 text = """ Welcome you to programming knowlege NLTK. Lets start with our NLTK programming"""
 

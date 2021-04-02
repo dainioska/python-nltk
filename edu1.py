@@ -3,7 +3,8 @@ import nltk
 import nltk.corpus
 
 #nltk.download()
-#nltk.download("gutenberg")
+#nltk.download('punkt')
+#nltk.download('gutenberg')
 
 from nltk.corpus import brown
 #print(brown.words())
